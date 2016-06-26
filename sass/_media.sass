@@ -1,0 +1,117 @@
+@import bourbon
+
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px)
+	/**/
+
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px)
+	.tkani
+		img
+			display: block
+			margin: 0 auto
+
+
+
+/* Small Devices, Tablets. меньше чем 768px */
+@media only screen and (max-width : 768px)
+	
+	/*Disable Animation on Mobile Devices*/
+	.animated
+		/*CSS transitions*/
+		-o-transition-property: none !important
+		-moz-transition-property: none !important
+		-ms-transition-property: none !important
+		-webkit-transition-property: none !important
+		transition-property: none !important
+		/*CSS transforms*/
+		-o-transform: none !important
+		-moz-transform: none !important
+		-ms-transform: none !important
+		-webkit-transform: none !important
+		transform: none !important
+		/*CSS animations*/
+		-webkit-animation: none !important
+		-moz-animation: none !important
+		-o-animation: none !important
+		-ms-animation: none !important
+		animation: none !important
+	.twoPoint
+		ul
+			li
+				margin: 0 15px !important
+
+	.indexText
+		right: 44px
+		top: 150px
+	header
+		padding-bottom: 30px
+
+	.headMnuWrap
+		h3
+			line-height: 20px
+	.p100
+		padding: 10px 0
+	.p20100
+		padding: 10px 0
+	.contentWrap
+		box-shadow: none
+	.contentWrap1
+		box-shadow: none
+	.contentWrap2
+		box-shadow: none
+	.contentWrap3
+		box-shadow: none
+	.contentWrap4
+		box-shadow: none
+
+	.btnMiera
+		padding: 0 10px !important
+		width: 268px
+		text-align: center
+	.popupCallback
+		width: 500px
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px)
+	/**/
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px)
+
+	/**/
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px)
+	/**/
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px)
+	/**/
+
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px)
+	.carousel-indicators
+		bottom: -50px
+
+
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px)
+	.p230
+		padding: 0 230px !important
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px)
+	/**/
+

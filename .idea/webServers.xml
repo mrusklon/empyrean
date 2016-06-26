@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="84b57675-9da1-4466-ba23-684cb9ad804c" name="empyrean" url="http://5.101.156.71">
+        <fileTransfer host="5.101.156.71" port="21" rootFolder="/empyrean.moscow/public_html" password="dff3df93dfc2dff0df98dfe6dfdddfd3" username="empyre1c_klon">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="492fbc18-f4ec-4a89-a215-158ca1b77d92" name="test2">
+        <fileTransfer port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
