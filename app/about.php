@@ -104,7 +104,9 @@
     </div>
 </div>
 <?php include("in/FooterBtn.php"); ?>
+
 <?php include("in/hidden.php"); ?>
+
 <?php include("in/footer.php"); ?>
 
 

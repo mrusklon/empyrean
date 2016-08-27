@@ -58,9 +58,8 @@
                     Сергей Доля & Empyrean <br>
                     <a target="_blank" style="font-weight: bold;
                      font-size: 18px; color: #001f37; text-decoration: underline;
-                     " href="//go-great-guns.tumblr.com/post/142116378711/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%B4%D0%BE%D0%BB%D1%8F-empyrean">
-                        Детали
-                                                                                                                                                                                                                                                          костюма</a>
+                     " href="/blog/2016/06/21/sergej-dolya-empyrean/">
+                        Детали костюма</a>
                 </p>
 
 
@@ -77,8 +76,7 @@
     ">
                     Впереди новая коллекция шляп <br>Подписывайтесь:
                     <a style="font-weight: bold; color: #001f37;font-size: 18px;
-                     text-decoration: underline;" href="https://www.instagram.com/empyrean.hats/">
-                                                                                                                                                              @empyrean.hats</a>
+                     text-decoration: underline;" href="https://www.instagram.com/empyrean.hats/">@empyrean.hats</a>
                 </p>
 
             </div>

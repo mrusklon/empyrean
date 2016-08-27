@@ -1,4 +1,3 @@
-$('.fancybox').fancybox();
 $(function () {
 $('.fancybox').fancybox();
     var marginTopScrtoll = 100;
@@ -109,9 +108,6 @@ $('.fancybox').fancybox();
     });
 
 });
-
-
-
 
 
 

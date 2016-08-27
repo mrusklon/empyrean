@@ -21,7 +21,7 @@
                 <li><a href="../shirts.php">Сорочки</a></li>
                 <!--                <li><a href="../accessories.php">Аксесуары</a></li>-->
                 <li><a href="../about.php">О нас</a></li>
-                <li><a href="../blog.php">Блог</a></li>
+                <li><a href="blog/">Блог</a></li>
                 <li><a href="../contacts.php">Контакты</a></li>
                 <li class="gold"><a href="../certificate.php">Сертификаты</a></li>
             </ul>
