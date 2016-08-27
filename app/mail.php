@@ -1,7 +1,7 @@
 <?php
 
 $frm_name  = "Youname";
-$recepient = "eempyreann@gmail.com";
+$recepient = "Ksyusha.mon@gmail.com";
 $sitename  = "Название Сайта";
 $subject   = "Новая заявка с сайта \"$sitename\"";
 
