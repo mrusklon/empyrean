@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="ru"> <!--<![endif]-->
-<head>
-
-    <meta charset="utf-8">
-
-    <title>Empyrean. Цены на мужские сорочки</title>
-    <meta name="description" content="Превосходные мужские сорочки по индивидуальным меркам">
-    <meta name="keywords" content="mtm, bespoke, цена пошива сорочки, сорочка цена">
-
-    <?php include("in/head.php"); ?>
+<?php include("in/head.php"); ?>
     <body>
 <?php include("in/header.php"); ?>
 
@@ -95,7 +82,6 @@
                                         <p>Томас Мэйсон открыл фабрику по производству хлопковых тканей в 1796 году в
                                            английском городе Лидс. Сегодня одноименная компания является крупным
                                            производителем сорочечных тканей и входит в состав Albini Group.</p>
-                                        <div class="bb"></div>
                                     </div>
                                 </div>
 
@@ -108,7 +94,6 @@
 
                                         <p>Компания, производящая высококачественные сорочечные ткани. Основана в 1876
                                            году в Италии. Входит в состав Albini Group.</p>
-                                        <div class="bb"></div>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
@@ -122,7 +107,6 @@
                                            C. Дизайнер получает в наследство от отца ткацкую фабрику и решает ее
                                            возглавить. Loro Piana сегодня — люксовый бренд одежды и поставщик
                                            качественных тканей.</p>
-                                        <div class="bb"></div>
                                     </div>
                                 </div>
 

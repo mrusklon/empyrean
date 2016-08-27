@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="ru"> <!--<![endif]-->
-<head>
-
-    <meta charset="utf-8">
-
-    <title>Empyrean. Сорочки по индивидуальным меркам</title>
-    <meta name="description" content="Превосходные мужские сорочки по индивидуальным меркам">
-    <meta name="keywords" content="мужская сорочка, биспок сорочка, сорочка мтм">
-
-    <?php include("in/head.php"); ?>
+<?php include("in/head.php"); ?>
     <body>
 <?php include("in/header.php"); ?>
 
@@ -26,7 +13,7 @@
                         <div class="row productCarouserl">
                             <div id="myCarousel" class="carousel slide" data-ride="carousel">
                                 <!-- Indicators -->
-                                <ol class="carousel-indicators hidden-xs">
+                                <ol class="carousel-indicators">
                                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                                     <li data-target="#myCarousel" data-slide-to="1"></li>
                                     <li data-target="#myCarousel" data-slide-to="2"></li>
