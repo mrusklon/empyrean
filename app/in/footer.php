@@ -49,7 +49,7 @@
                                     <ul class="social">
                                         <li><a target="_blank" href="https://www.instagram.com/empyrean.moscow/" class="fa fa-lg fa-instagram"></a></li>
                                         <li><a target="_blank" href="https://www.facebook.com/empyrean.moscow" class="fa fa-lg fa-facebook"></a></li>
-                                        <li><a target="_blank" href="http://go-great-guns.tumblr.com/" class="fa fa-lg fa-tumblr"></a></li>
+<!--                                        <li><a target="_blank" href="http://go-great-guns.tumblr.com/" class="fa fa-lg fa-tumblr"></a></li>-->
                                     </ul>
                                 </div>
                             </div>
